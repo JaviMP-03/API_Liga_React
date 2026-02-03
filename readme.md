@@ -16,3 +16,15 @@
 - Vite
 - React Router
 - Bootstrap 5
+
+### Lista de jugadores
+
+![Lista de jugadores](imagenes/Menu_Jugadores.png)
+
+### Lista de equipos
+
+![Lista de equipos](imagenes/Menu_Equipos.png)
+
+### Formulario de edición
+
+![Formulario](imagenes/Menu_Edicion_Equipo.png)
